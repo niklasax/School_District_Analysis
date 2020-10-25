@@ -20,7 +20,12 @@ After Omission
 
 * How is the school summary affected?
 
+Since Thomas Highschool was the only school with omitted scores, they were the only school affected. After omitting the ninth grade scores, the average math and reading scores stayed at approximately 83% to 84% but the biggest change was in the % who passed. Initially at Thomas High School, only around 67% passed math, 70% passed reading and 65% passed overall. After the change, Thomas High School had 93% pass Math, 97% pass reading and 90% pass overall.  
+
 * How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+
+After replacing the ninth graders’ math and reading scores, Thomas High School’s overall performance improved relative to other schools. Initially, they had an overall passing rate of 65% which put them as the school with the 8th highest overall passing rate. After the change, their updated 90% overall passing rate put them as the school with the 2nd highest overall passing rate
+
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade

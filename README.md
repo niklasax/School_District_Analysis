@@ -29,11 +29,26 @@ After replacing the ninth graders’ math and reading scores, Thomas High School
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade
+  
+  The only change would be Thomas High School in the 9th grade column showing as 'NaN' instead of the initial average
+  
   * Scores by school spending
+  
+  The only spend category affected by the change was $630-644. With the ommision of THS 9th graders, this category would've seen increased performance for the math, reading and overall percentages.
+  
   * Scores by school size
+  
+  The only school size category affected by the change was medium sized schools (1000-2000). With the ommision of THS 9th graders, this category would've seen increased performance for the math, reading and overall percentages.
+  
   * Scores by school type
+  
+  The only school type category affected by the change was charter schools. With the ommision of THS 9th graders, this category would've seen increased performance for the math, reading and overall percentages.
 
 ## Summary
 Four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School were omitted:
 
-1. gfg
+1. The overall student count dropped from 39,170 to 38,709
+
+2. Thomas High School's performance drastically increased, bringing all passing percentages from the 60s to the 90s. This brought their overall passing rank from 8th to 2nd place.
+
+3. 

@@ -9,7 +9,12 @@ The purpose of this excercise was to get familiar with the Juptyter notebook web
 * How is the district summary affected?
 
 The omission of 9th grade Thomas High School scores had a minimal effect on the District Summary. The difference in % for every category stayed within 1% of change. This includes the averages for math and reading scores, as well as passing percentages. Directly below are the before and after images for reference.
+
+Before Omission
+
 ![image_name](https://github.com/niklasax/School_District_Analysis/blob/main/Resources/District%20Summary%20(before).png)
+
+After Omission
 
 ![image_name](https://github.com/niklasax/School_District_Analysis/blob/main/Resources/District%20Summary%20(after).png)
 

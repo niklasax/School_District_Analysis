@@ -26,6 +26,13 @@ Since Thomas Highschool was the only school with omitted scores, they were the o
 
 After replacing the ninth graders’ math and reading scores, Thomas High School’s overall performance improved relative to other schools. Initially, they had an overall passing rate of 65% which put them as the school with the 8th highest overall passing rate. After the change, their updated 90% overall passing rate put them as the school with the 2nd highest overall passing rate
 
+Before Omission
+
+![image_name](https://github.com/niklasax/School_District_Analysis/blob/main/Resources/By%20school%20(before).png)
+
+After Omission
+
+![image_name](https://github.com/niklasax/School_District_Analysis/blob/main/Resources/By%20school%20(after).png)
 
 * How does replacing the ninth-grade scores affect the following:
   * Math and reading scores by grade

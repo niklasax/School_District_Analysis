@@ -58,4 +58,6 @@ Four major changes in the updated school district analysis after reading and mat
 
 2. Thomas High School's performance drastically increased, bringing all passing percentages from the 60s to the 90s. This brought their overall passing rank from 8th to 2nd place.
 
-3. 
+3. All the categories that Thomas High School were associated with would see increases in their test percentages after the omission of THS 9th grade
+
+4. We now don't have any data into the performance of THS 9th grade contributing to the new data series, which would cause our analysis to be skewed
